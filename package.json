@@ -1,0 +1,26 @@
+{
+  "name": "koa2-demo",
+  "version": "1.0.0",
+  "description": "a demo for koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoucumt/koa2-demo.git"
+  },
+  "keywords": [
+    "koa2",
+    "nodejs"
+  ],
+  "author": "zhoucumt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoucumt/koa2-demo/issues"
+  },
+  "homepage": "https://github.com/zhoucumt/koa2-demo#readme",
+  "devDependencies": {
+    "koa": "^2.2.0"
+  }
+}
